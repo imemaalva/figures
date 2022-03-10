@@ -17,6 +17,7 @@ class Circle extends Figure{
    +getPerimeter(): float;
 }
 
+
 class Rectangle extends Figure{
    +getArea(): float;
    +getPerimeter(): float;
@@ -27,4 +28,6 @@ class Polygon extends Figure{
    +getPerimeter(): float;
 }
 
+
+![Diagrama generado](diagrama.png)
 
