@@ -1,3 +1,5 @@
+***PLANTUML ***
+
 abstract class Figure{
 
    -{static} figuresCreated: int;
@@ -28,6 +30,7 @@ class Polygon extends Figure{
    +getPerimeter(): float;
 }
 
+******
 
 ![Diagrama generado](diagrama.png)
 
